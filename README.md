@@ -128,10 +128,10 @@ learning_rate_decay = 0.9
 min_learning_rate = 0.0001
 keep_probability = 0.5
 ```
-Unforunately, training over 3 epochs took me 3 days, so using the weights collected after training for 3 epochs to test
+The time it took me for training 3 epochs was 3 days. So, I used the weights collected after training for 3 epochs to test
 ![screenshot 71](https://user-images.githubusercontent.com/37619070/51443070-dc554e00-1d09-11e9-94d4-1acca221de09.png)
 
-Hence I have used the pretrained weights developed by Abraham Sanders: https://github.com/AbrahamSanders
+Then, I have used the pretrained weights developed by Abraham Sanders: https://github.com/AbrahamSanders
 ![screenshot 73](https://user-images.githubusercontent.com/37619070/51443307-ff353180-1d0c-11e9-89bb-27d9933bddab.png)
 
 you can download it here: https://drive.google.com/uc?id=1Ig-sgdka5QpgE-b9g4ZQqnGGCrE-2f4p&export=download
